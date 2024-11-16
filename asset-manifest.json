@@ -3,8 +3,8 @@
   "files": {
     "main.css": "/static/css/main.24d828b4.css",
     "main.js": "/static/js/main.dcedacb4.js",
-    "static/media/lion.png": "/static/media/lion.ef41ac3df0aa705b6292.png",
-    "static/media/butfl.png": "/static/media/butfl.69bc9446d8d59bd8b757.png",
+    "static/media/lion.png": "./static/media/lion.ef41ac3df0aa705b6292.png",
+    "static/media/butfl.png": "./static/media/butfl.69bc9446d8d59bd8b757.png",
     "static/media/snik.png": "/static/media/snik.f1f0d77fb46871338122.png",
     "static/media/dog.png": "/static/media/dog.1ba58799d6217f29c8bc.png",
     "static/media/bee.png": "/static/media/bee.fc332b4cdf72a388e4e5.png",
