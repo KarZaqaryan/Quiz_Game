@@ -6,7 +6,7 @@ recognition skills with cute animal pictures! Test how quickly you can match the
 
 <div align="center">
   <h2 align="center">Animal Matching Game</h2>
-  <a href=""><strong>➥ Live Demo</strong></a>
+
 </div>
 
 <br />
